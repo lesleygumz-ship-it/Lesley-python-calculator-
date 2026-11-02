@@ -1,4 +1,4 @@
-# Simple Calculator
+ Simple Calculator
 def calculator():
     print("=== Calculator ===")
     num1 = float(input("Enter first number: "))
